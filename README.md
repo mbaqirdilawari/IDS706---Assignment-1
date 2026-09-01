@@ -4,6 +4,7 @@
 # My Python Project
 
 This project asks to create a Python project with a virtual environment, requirements, tests, a Makefile, and GitHub Actions.
+
 Assignment 1
 Course: Data Engineering
 
